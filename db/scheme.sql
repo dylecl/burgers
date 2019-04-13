@@ -1,5 +1,3 @@
-### Schema
-DROP DATABASE IF EXISTS burger_db2;
 CREATE DATABASE burger_db2;
 USE burger_db2;
 
